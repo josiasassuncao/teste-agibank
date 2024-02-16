@@ -1,0 +1,5 @@
+Versões
+
+NPM: 8.19.3
+NodeJS: 19.1.0
+Cypress: 13.6.4
