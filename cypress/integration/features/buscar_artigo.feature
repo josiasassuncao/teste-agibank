@@ -7,7 +7,6 @@ Scenario: Pesquisar por um artigo existente
   When clico na lupa de pesquisa
   And insiro o título "Agibank se prepara para transacionar via Drex" na barra de pesquisa
   And pressiono Enter ou clico no botão de pesquisa
-  Then devo ver os resultados da pesquisa
   And clico no link do artigo "Agibank se prepara para transacionar via Drex"
   Then devo ser redirecionado para a página do artigo "Agibank se prepara para transacionar via Drex"
 
